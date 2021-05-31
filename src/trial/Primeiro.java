@@ -15,6 +15,8 @@ public class Primeiro {
 			System.out.println(nome.charAt(i));
 		}
 		
+		System.out.println("Pronto");
+		
 		teclado.close();
 		
 	}
